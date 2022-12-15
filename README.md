@@ -2,7 +2,7 @@
 Nicholas G Tan
 - 💵Finance veteran turned 👨‍💻Software Engineer
 - General Assembly SEI course student
-- JavaScript is my first language and I’m currently learning React
+- JavaScript and React proficient, and currently learning Express and Mongoose.
 - I’m interested in tech, gaming, languages, travel, wining and dining.
 - You can ping me at: [LinkedIn](https://www.linkedin.com/in/nicholasgtan/)
 
