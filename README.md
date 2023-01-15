@@ -2,7 +2,7 @@
 Nicholas G Tan
 - 💵Finance veteran turned 👨‍💻Software Engineer
 - General Assembly SEI course student
-- JavaScript and React proficient, and currently learning Express and Mongoose.
+- Techstack: JavaScript, React, Express, Mongoose, Typescript, Postgres, Prisma
 - I’m interested in tech, gaming, languages, travel, wining and dining.
 - You can ping me at: [LinkedIn](https://www.linkedin.com/in/nicholasgtan/)
 
