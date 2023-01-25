@@ -1,8 +1,9 @@
 ## Hello there, I'm Nick!
 Nicholas G Tan
-- 💵Finance veteran turned 👨‍💻Software Engineer
-- General Assembly SEI course student
-- Techstack: JavaScript, React, Express, Mongoose, Typescript, Postgres, Prisma
+- 💵Finance veteran with a passion for 👨‍💻Software Engineering
+- General Assembly Sofware Engineering Immersive student
+- Programming Languages: TypeScript, JavaScript, JQuery, Python, HTML, CSS 
+- Libraries and Frameworks: React, Node.js, Express, Mongoose, MongoDB, Prisma, PostgreSQL, Material UI, Chart.js,
 - I’m interested in tech, gaming, languages, travel, wining and dining.
 - You can ping me at: [LinkedIn](https://www.linkedin.com/in/nicholasgtan/)
 
