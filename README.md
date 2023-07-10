@@ -1,7 +1,8 @@
-## Hello there, I'm Nick!
+![LinkedIn Banner](https://github.com/nicholasgtan/nicholasgtan/assets/115612053/5c406b6c-c62a-492d-9d54-84c477242d72)
 
-I am an experienced finance professional and budding software engineer, based in Singapore.
-<br />
+<p align="center">I am an experienced finance professional and budding software engineer, based in Singapore.</p>
+
+-----
 ### Connect with me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasgtan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholasgtan@gmail.com)
