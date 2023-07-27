@@ -1,6 +1,7 @@
 ![LinkedIn Banner](https://github.com/nicholasgtan/nicholasgtan/assets/115612053/5c406b6c-c62a-492d-9d54-84c477242d72)
 
 <p align="center">I am an experienced finance professional and budding software engineer, based in Singapore.</p>
+<p align="center">Feel free to take a look at my projects pinned below!</p>
 
 -----
 ### Connect with me!
